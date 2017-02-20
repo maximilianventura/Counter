@@ -12,9 +12,9 @@ In the most recent portion of the course, you learned how to make use of Java in
 This project is about combining various ideas and skills we’ve been practicing throughout the course. They include:
 
 > - Adding button code to your app
-    - Updating views
-    - Properly scoping variables
-    - Finding views by their ID
+- Updating views
+- Properly scoping variables
+- Finding views by their ID
 
 
 
@@ -26,5 +26,5 @@ The application keeps track of goals, faults, shots and corners
 
 --------------------------------------------------------------------------------
 
-![](https://github.com/maximilianventura/QuizApp/blob/master/DigErgoSum01s.jpg)
-![](https://github.com/maximilianventura/QuizApp/blob/master/DigErgoSum02s.jpg)
+![](https://github.com/maximilianventura/Counter/blob/master/football_counter.jpg)
+

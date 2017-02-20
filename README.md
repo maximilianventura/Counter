@@ -26,5 +26,5 @@ The application keeps track of goals, faults, shots and corners
 
 --------------------------------------------------------------------------------
 
-![](https://github.com/maximilianventura/Counter/blob/master/football_counter.jpg)
+![](https://github.com/maximilianventura/Counter/blob/master/counter.jpg)
 
